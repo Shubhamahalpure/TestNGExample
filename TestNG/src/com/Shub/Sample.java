@@ -14,6 +14,7 @@ public class Sample {
 		WebDriver driver = new ChromeDriver();
 
 		driver.get("http://admin-demo.nopcommerce.com/");
+		// Open the URL
 
 		driver.findElement(By.xpath("//*[@id=\'Email\']")).clear();
         driver.findElement(By.xpath("//*[@id=\'Email\']")).sendKeys("admin@yourstore.com");
