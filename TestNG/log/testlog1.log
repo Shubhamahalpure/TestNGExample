@@ -1,0 +1,35 @@
+2022-04-08 19:24:56,053 [main] INFO log4jpackage - setup method is started
+2022-04-08 19:24:56,075 [main] INFO log4jpackage - setup method is in progressing
+2022-04-08 19:24:56,094 [main] INFO log4jpackage - login method is started 
+2022-04-08 19:24:56,096 [main] INFO log4jpackage - login is progress
+2022-04-08 19:24:56,097 [main] INFO log4jpackage - login is completed
+2022-04-08 19:24:56,098 [main] INFO log4jpackage - login is passed
+2022-04-08 19:24:56,106 [main] INFO log4jpackage - logout is completed
+2022-04-08 19:34:22,780 [main] INFO log4jpackage - setup method is started
+2022-04-08 19:34:22,813 [main] INFO log4jpackage - setup method is in progressing
+2022-04-08 19:34:22,824 [main] INFO log4jpackage - login method is started 
+2022-04-08 19:34:22,827 [main] INFO log4jpackage - login is progress
+2022-04-08 19:34:22,827 [main] INFO log4jpackage - login is completed
+2022-04-08 19:34:22,828 [main] INFO log4jpackage - login is passed
+2022-04-08 19:34:22,832 [main] INFO log4jpackage - logout is completed
+2022-04-16 09:26:54,006 [main] INFO log4jpackage - setup method is started
+2022-04-16 09:26:54,047 [main] INFO log4jpackage - setup method is in progressing
+2022-04-16 09:26:54,067 [main] INFO log4jpackage - login method is started 
+2022-04-16 09:26:54,068 [main] INFO log4jpackage - login is progress
+2022-04-16 09:26:54,069 [main] INFO log4jpackage - login is completed
+2022-04-16 09:26:54,071 [main] INFO log4jpackage - login is passed
+2022-04-16 09:26:54,077 [main] INFO log4jpackage - logout is completed
+2022-04-16 09:27:52,175 [main] INFO log4jpackage - setup method is started
+2022-04-16 09:27:52,214 [main] INFO log4jpackage - setup method is in progressing
+2022-04-16 09:27:52,282 [main] INFO log4jpackage - login method is started 
+2022-04-16 09:27:52,285 [main] INFO log4jpackage - login is progress
+2022-04-16 09:27:52,286 [main] INFO log4jpackage - login is completed
+2022-04-16 09:27:52,294 [main] INFO log4jpackage - login is passed
+2022-04-16 09:27:52,308 [main] INFO log4jpackage - logout is completed
+2022-04-17 10:19:12,724 [main] INFO log4jpackage - setup method is started
+2022-04-17 10:19:12,787 [main] INFO log4jpackage - setup method is in progressing
+2022-04-17 10:19:12,801 [main] INFO log4jpackage - login method is started 
+2022-04-17 10:19:12,803 [main] INFO log4jpackage - login is progress
+2022-04-17 10:19:12,803 [main] INFO log4jpackage - login is completed
+2022-04-17 10:19:12,804 [main] INFO log4jpackage - login is passed
+2022-04-17 10:19:12,808 [main] INFO log4jpackage - logout is completed
