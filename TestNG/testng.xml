@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+-<suite thread-count="2" parallel="tests" name="Suite">
+<!-- Suite -->
+
+
+-<test name="GC Test">
+
+<parameter name="port" value="4455"/>
+
+
+-<classes>
+
+<class name="grid.GridEx"/>
+
+</classes>
+
+</test>
+
+
+-<test name="FF Test">
+
+<parameter name="port" value="4457"/>
+
+
+-<classes>
+
+<class name="grid.GridEx"/>
+
+</classes>
+
+</test>
+
+</suite>

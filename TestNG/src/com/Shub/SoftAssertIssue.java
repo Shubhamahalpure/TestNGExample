@@ -13,7 +13,7 @@ public class SoftAssertIssue {
 	{
 		System.out.println("Test1");
 		sft1.assertEquals("Hello", "hello");
-		System.out.println("Test1 is passed");
+		System.out.println("Test1 is Failed");
 		sft1.assertAll();
 	}
 	
